@@ -1,0 +1,18 @@
+PRINT DA ENTREGA
+================
+
+1) Rode SETUP_ANDROID.bat.
+2) Abra a pasta do projeto no VS Code.
+3) Expanda a raiz e deixe visíveis:
+
+   android/
+   dist/
+   public/
+   src/
+   capacitor.config.json
+   package.json
+   vite.config.js
+
+4) Tire o print.
+
+OBS.: O ZIP já inclui um dist/ demonstrativo. Quando você rodar npm run build, o Vite irá substituir esse conteúdo pelo build real do React.

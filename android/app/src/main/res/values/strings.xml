@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Arquitetura e Funcionamento</string>
+    <string name="title_activity_main">Arquitetura e Funcionamento</string>
+    <string name="package_name">com.arquitetura.e.funcionamento</string>
+    <string name="custom_url_scheme">com.arquitetura.e.funcionamento</string>
+</resources>

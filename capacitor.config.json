@@ -1,0 +1,8 @@
+{
+  "appId": "com.arquitetura.e.funcionamento",
+  "appName": "Arquitetura e Funcionamento",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
