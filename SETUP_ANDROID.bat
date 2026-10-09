@@ -45,6 +45,6 @@ exit /b 0
 
 :erro
 echo.
-echo Ocorreu um erro. Leia PASSO_A_PASSO.md e confirme Node.js, npm e Android Studio.
+echo Ocorreu um erro. Leia LEIA-ME.md e confirme Node.js, npm e Android Studio.
 pause
 exit /b 1
